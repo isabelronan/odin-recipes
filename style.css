@@ -1,0 +1,28 @@
+h1,
+ul,
+p,
+ol {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+h1,
+h2 {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: rgba(100, 148, 237, 0.205)
+}
+a {
+    text-align: left;
+    color: cornflowerblue;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
